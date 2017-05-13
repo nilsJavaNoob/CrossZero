@@ -1,4 +1,3 @@
-package testL;
 /**
  * Created by n on 06.05.17.
  */
